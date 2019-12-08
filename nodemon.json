@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGODB_BASE_URL": "localhost",
+    "MONGODB_PORT": "27017",
+    "MONGODB_CLUSTER_NAME": "graphqlMongo",
+    "NODEJS_PORT": 8081
+  }
+}
